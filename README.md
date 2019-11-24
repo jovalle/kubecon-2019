@@ -8,8 +8,6 @@
     * Sharing GPUs is a headache and impossible to do right without custom middleware
     * [fregot](https://github.com/fugue/fregot), a tool for debugging Rego
     * [Open Match](https://github.com/roberthbailey/open-match), the CNI/CSI for online multiplayer matchmaking
-    * CNCF Projects := Sandbox -> Incubating -> Graduated -> Archived? (annual review for all Graduated projects)
-
 
 ## Day 1
 * [Kubernetes at Cruise: Two Years of Multitenancy](cruise-multitenancy/README.md)
@@ -26,6 +24,11 @@
 * [Use Your Favorite Developer Tools in Kubernetes with Telepresence](telepresence/README.md)
 
 ## Day 3
+* [Tutorial: Debug Your Kubernetes Apps](debug-k8s-apps/README.md)
+* [How Yelp Moved Security from the App to the Mesh with Envoy and OPA](app-security-to-mesh/README.md)
 * [How Kubernetes Components Communicate Securely in Your Cluster](secured-cluster-communication/README.md)
+* [Securing Your Services with Authentication, Authorization, and RBAC in gRPC](securing-grpc-services/README.md)
+* [Tutorial: A Kind Workflow for Contributing to Kubernetes](kind-workflow/README.md)
+* [CoreDNS - Beyond the Basics](coredns-intermediate/README.md)
 * [Solving Multi-Cluster Networking Connectivity with Submariner](multi-cluster-connectivity/README.md)
 * [Kubernetes Policy Enforcement Using OPA at Goldman Sachs](opa-at-goldman/README.md)
