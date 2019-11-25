@@ -10,4 +10,4 @@
 * iptables has slow support
 * iptable rule for each service and pod = too many
 * Cillium packet flow (really XDP and (e)BPF) allows for dropping packets at host NIC level for relatively insane speeds and scaling potential
-* no more kube-proxy!
+* no more kube-proxy! other talks have claimed that the greatest sources of cluster performance regressions at massive scale are ```DaemonSets``` and kubelets
